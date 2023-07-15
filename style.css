@@ -52,4 +52,26 @@
 .b2{
     padding: 15px;
 }
+.b13{
+    border-radius: 5px;
+    padding: 10px;
+    border:#3882F6 ;
+
+}
+.c{
+    display: flex;
+    justify-content: space-around;
+}
+.ci{
+    height: 100px;
+    width: 100px;
+    border: 2px solid blue;
+    border-radius: 2px;
+}
+.ih{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: bold;
+    text-align: center;
+}
 
